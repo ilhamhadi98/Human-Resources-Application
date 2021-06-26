@@ -1,2 +1,2 @@
 # human-resource-management
-aplikasi untuk hr
+aplikasi untuk mengelola data karyawan
