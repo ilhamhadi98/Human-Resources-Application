@@ -42,7 +42,7 @@ CREATE TABLE `cuti` (
 --
 
 INSERT INTO `cuti` (`id`, `nik`, `nama`, `tglawal`, `tglakhir`, `alasan`) VALUES
-(1, 98150002, 'ILHAM MASYKURI HADI', '2018-03-06', '2018-04-03', 'liburan');
+(1, 1, 'Karyawan 1', '2018-03-06', '2018-04-03', 'liburan');
 
 -- --------------------------------------------------------
 
@@ -105,8 +105,8 @@ CREATE TABLE `perjalanan` (
 --
 
 INSERT INTO `perjalanan` (`id`, `nik`, `nama`, `tujuan`, `nodin`) VALUES
-(1, '98150002', 'ILHAM MASYKURI HADI', 'TELKOM AKSES LEMBONG BANDUNG', 'ND/KWA-2018/01'),
-(2, '9314102', 'IS RAISHA', 'Telkom Akses Jalan S. Parman Jakarta No.1', 'ND/JKT-2018/02');
+(1, '1', 'Karyawan 1', 'TELKOM AKSES LEMBONG BANDUNG', 'ND/KWA-2018/01'),
+(2, '2', 'Karyawan 2', 'Telkom Akses Jalan S. Parman Jakarta No.1', 'ND/JKT-2018/02');
 
 -- --------------------------------------------------------
 
